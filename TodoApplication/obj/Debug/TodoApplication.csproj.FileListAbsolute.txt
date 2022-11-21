@@ -1,0 +1,15 @@
+F:\C# Projects\TodoApplication\bin\Debug\Database.mdf
+F:\C# Projects\TodoApplication\bin\Debug\Database_log.ldf
+F:\C# Projects\TodoApplication\bin\Debug\TodoApplication.exe.config
+F:\C# Projects\TodoApplication\bin\Debug\TodoApplication.exe
+F:\C# Projects\TodoApplication\bin\Debug\TodoApplication.pdb
+F:\C# Projects\TodoApplication\obj\Debug\TodoApplication.csproj.AssemblyReference.cache
+F:\C# Projects\TodoApplication\obj\Debug\TodoApplication.csproj.SuggestedBindingRedirects.cache
+F:\C# Projects\TodoApplication\obj\Debug\TodoApplication.Form1.resources
+F:\C# Projects\TodoApplication\obj\Debug\TodoApplication.Properties.Resources.resources
+F:\C# Projects\TodoApplication\obj\Debug\TodoApplication.csproj.GenerateResource.cache
+F:\C# Projects\TodoApplication\obj\Debug\TodoApplication.csproj.CoreCompileInputs.cache
+F:\C# Projects\TodoApplication\obj\Debug\TodoApplication.exe
+F:\C# Projects\TodoApplication\obj\Debug\TodoApplication.pdb
+F:\C# Projects\TodoApplication\obj\Debug\TodoApplication.Form2.resources
+F:\C# Projects\TodoApplication\obj\Debug\TodoApplication.Form3.resources
